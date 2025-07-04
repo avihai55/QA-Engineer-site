@@ -1,3 +1,4 @@
+if (typeof particlesJS !== "undefined") {
 particlesJS("particles-js", {
   particles: {
     number: { value: 90 },
@@ -37,3 +38,4 @@ particlesJS("particles-js", {
   },
   retina_detect: true
 });
+}
